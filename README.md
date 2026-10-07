@@ -1,4 +1,4 @@
-# laodifang# 老地方 · MasterD 记忆档案
+#老地方 · MasterD 记忆档案
 
 唤回方式：用户说「状态」+ 本仓库链接 → MasterD 读取本文件 → 恢复记忆 + 全维度自检
 
